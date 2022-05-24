@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(225, 152, 51);
+}
+    div{
+        background-color: aqua;
+    }
+    .one{
+        background-color: blue;
+        color: rgb(12, 2, 21);
+        width:50% ;
+        margin-bottom: 200px;
+        text-align: center ;
+        padding:50px ;
+    }
+    .two{
+        background-color: brown;
+        color: rgb(0, 0, 0);
+        width:40% ;
+        margin-bottom:200px ;
+        text-align: center;
+        padding: 50px; ;
+    }
+    .three{
+        background-color: aquamarine;
+        color: rgb(0, 0, 0);
+        width:30% ;
+        margin-bottom: 200px;
+        text-align: center;
+        padding: 50px;
+    }
